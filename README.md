@@ -9,4 +9,4 @@ talkingOrange/talkingOrange is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ILOVEWEB%20&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I LOVE WEB%20&fontSize=90) 
