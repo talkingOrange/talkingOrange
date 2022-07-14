@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I%LOVE%WEB&fontSize=90&) 
-![footer](https://capsule-render.vercel.app/api?section=footer&text=Thank%you%to%visit&fronSize=20)
+![footer](https://capsule-render.vercel.app/api?section=footer&text=Thank%you%to%visit&fronSize=10&)
