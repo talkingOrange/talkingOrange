@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on "Good Chance"
 - 📫 How to reach me sonrisa-bonita@naver.com
 
+----
+
 ![footer](https://capsule-render.vercel.app/api?type=rect&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontAlign=80&fontAlignY=70&&color=timeGradient&animation=twinkling)
