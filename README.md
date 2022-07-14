@@ -4,7 +4,7 @@ talkingOrange/talkingOrange is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=I%20LOVE%20WEB&fontSize=90&) 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=I%20LOVE%20WEB&fontSize=90&fontAlignY=40) 
 - 👋 Hi, I’m @talkingOrange
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning React.js
