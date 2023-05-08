@@ -7,7 +7,24 @@ You can click the Preview link to take a look at your changes.
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=I%20LOVE%20WEB&fontSize=90&fontAlignY=40) 
 - 👋 Hi, I’m @talkingOrange
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js && React.js
+  - 2023
+[Track1](https://github.com/Track-1/client)  /
+[NestJS|Portfolio](https://github.com/talkingOrange/NextJS_Project.git)
+
+  - 2022
+[SOPT](https://github.com/IN-SOPT-WEB/YeWonHAN.git)  /
+[X-Introduction](https://github.com/X-Introduction/frontend.git) /
+[S0PTerest](https://github.com/S0PTerest/S0PTerest-Client.git) /
+[QUOTKA](https://github.com/W-s-COOL-FrontEnd/QUOTKA-start.git)
+
+  - 2021
+[심리Q](https://github.com/talkingOrange/PsychologyQ_web.git)
+
+  - 2020
+[정직리뷰_뷰티블로그](https://github.com/talkingOrange/Beauty_Blog.git) /
+[뭐그리지판](https://github.com/talkingOrange/Python_Paintbrush.git) /
+[수룡이와 공놀이](https://github.com/talkingOrange/ball_game.git)
 - 💞️ I’m looking to collaborate on "Good Chance"
 - 📫 How to reach me sonrisa-bonita@naver.com
 
