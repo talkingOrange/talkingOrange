@@ -18,10 +18,8 @@ You can click the Preview link to take a look at your changes.
 [S0PTerest](https://github.com/S0PTerest/S0PTerest-Client.git) /
 [QUOTKA](https://github.com/W-s-COOL-FrontEnd/QUOTKA-start.git)
 
-  - 2021
-[심리Q](https://github.com/talkingOrange/PsychologyQ_web.git)
-
-  - 2020
+  - 2020 ~ 2021
+[심리Q](https://github.com/talkingOrange/PsychologyQ_web.git)  /
 [정직리뷰_뷰티블로그](https://github.com/talkingOrange/Beauty_Blog.git) /
 [뭐그리지판](https://github.com/talkingOrange/Python_Paintbrush.git) /
 [수룡이와 공놀이](https://github.com/talkingOrange/ball_game.git)
