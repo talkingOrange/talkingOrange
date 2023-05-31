@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me sonrisa-bonita@naver.com
 
 ![talkingOrange's GitHub stats](https://github-readme-stats.vercel.app/api?username=talkingOrange&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talkingOrange&layout=compact&theme=tokyonight)
 ----
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontAlign=80&fontAlignY=70&&color=timeGradient&animation=twinkling)
