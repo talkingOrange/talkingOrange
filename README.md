@@ -8,9 +8,10 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @talkingOrange
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Next.js && React.js
+
   - NOW
 [Track1 Refactor](https://github.com/Track-1/client)  /
-[QUOTKA2.0](https://github.com/talkingOrange/NextJS_Project.git](https://github.com/WomensCOOL/QUOTKA2.0_Frontend)
+[QUOTKA2.0](https://github.com/WomensCOOL/QUOTKA2.0_Frontend)
 
   - 2023
 [Track1](https://github.com/Track-1/client)  /
